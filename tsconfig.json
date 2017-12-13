@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "rootDir": "./src",
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "lib": [
+      "es6",
+      "dom"
+    ],
+    "skipLibCheck": true,
+    "types": [
+      "jasmine",
+      "node"
+    ]
+  }
+}

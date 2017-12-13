@@ -1,0 +1,28 @@
+{
+  "name": "ngx-uom",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/catellanir/ngx-uom"
+  },
+  "author": {
+    "name": "Rossano Catellani",
+    "email": "catellanir@yahoo.it"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/catellanir/ngx-uom/issues"
+  },
+  "main": "ngx-uom.umd.js",
+  "module": "ngx-uom.js",
+  "jsnext:main": "ngx-uom.js",
+  "typings": "ngx-uom.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}

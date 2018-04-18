@@ -46,7 +46,7 @@ export class AppModule { }
 ```
 
 # Pipe uom
-uom pipe convert a given numeriv value from an unit of measure to another one
+uom pipe converts a given numeric value from an unit of measure to another one
 
 ## Usage
 {{value | uom : valueUom : desiredUom}}

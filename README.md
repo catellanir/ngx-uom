@@ -1,5 +1,5 @@
 # ngx-uom
-The ngx-uom library provide a service anda pipe that can be used to convert a given numeric value from an Unit Of Measure (uom) to
+The ngx-uom library provide a service and a pipe that can be used to convert a given numeric value from an Unit Of Measure (uom) to
 a another one (Ex from millimiters to inches)
 
 ## Installation
